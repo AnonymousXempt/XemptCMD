@@ -7,10 +7,10 @@ XemptCMD is a windows terminal progrmammed in batch intended to unblock cmd on r
 XemptCMD is a command line interpreter application available in most Windows operating systems. It's used to execute entered commands. 
 
 Most of those commands can:
-	1. Automate tasks via scripts and batch files.
-	2. Perform advanced administrative functions
-	3. Troubleshoot or solve certain kinds of Windows issues.
-	4. And More
+1.Automate tasks via scripts and batch files.
+2. Perform advanced administrative functions
+3. Troubleshoot or solve certain kinds of Windows issues.
+4. And More
 
 ### *Social Media*
 -----------------------------------------------------------------	
@@ -37,7 +37,6 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
------------------------------------------------------------------	
+	
 -----------------------------------------------------------------
 
