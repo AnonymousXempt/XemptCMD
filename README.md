@@ -1,18 +1,19 @@
 # XemptCMD
 Batch Powered Terminal Designed To Bypass Administrator Blocks
 
-### *About XemptCMD*
+# *About XemptCMD*
+
 XemptCMD is a windows terminal progrmammed in batch intended to unblock cmd on restricted computers.
 
 XemptCMD is a command line interpreter application available in most Windows operating systems. It's used to execute entered commands. 
 
 Most of those commands can:
-1.Automate tasks via scripts and batch files.
+1. Automate tasks via scripts and batch files.
 2. Perform advanced administrative functions
 3. Troubleshoot or solve certain kinds of Windows issues.
 4. And More
 
-### *Social Media*
+# *Social Media*
 -----------------------------------------------------------------	
 	
 Instagram:   https://instagram.com/anonymous_xempt <br>
@@ -21,10 +22,10 @@ YouTube:   https://www.youtube.com/c/AnonymousXempt <br>
 
 
 Email For Business Enquiries:   xempt@pm.me
------------------------------------------------------------------	
+	
 -----------------------------------------------------------------	
 
-### *Licence*
+# *Licence*
 
 All software included is bundled with own license
 
