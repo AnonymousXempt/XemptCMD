@@ -14,7 +14,7 @@ Most of those commands can:
 
 ### *Social Media*
 -----------------------------------------------------------------	
------------------------------------------------------------------	
+	
 Instagram:   https://instagram.com/anonymous_xempt <br>
 GitHub:   https://github.com/AnonymousXempt <br>
 YouTube:   https://www.youtube.com/c/AnonymousXempt <br>
